@@ -2,9 +2,9 @@
 For data insight AI fellowship interview
 
 # Run
-1. download "" from
-2. put to folder
-3. run ipynb file
+1. download pretrained model file "yolo.h5" from https://drive.google.com/file/d/1u3UE_yi0gRCoREmCRzxU9FA89xDYj8IS/view?usp=sharing
+2. put download "yolo.h5" file into folder "/model_data"
+3. run .ipynb file
 
 # Result
 
